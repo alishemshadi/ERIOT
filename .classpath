@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JenaLib"/>
+	<classpathentry kind="lib" path="C:/jade/lib/jade.jar" sourcepath="C:/jade/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/jade/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/jade/lib/jadeExamples.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
